@@ -1,0 +1,96 @@
+#Level 1
+
+START_LEVEL
+level_name:Take a #selfie
+ball_velocities:-45,5 45,6 110,5 60,5 30,5
+background:image(background_images/selfie.jpg)
+paddle_speed:15
+paddle_width:220
+block_definitions:definitions/selfie_definitions.txt
+blocks_start_x:50
+blocks_start_y:100
+row_height:40
+num_blocks:30
+START_BLOCKS
+~
+~
+gdgdgdgdgd
+dgdgdgdgdg
+gdgdgdgdgd
+END_BLOCKS
+END_LEVEL
+
+#Level 2
+
+START_LEVEL
+level_name:Dont stop the music
+ball_velocities:45,6 110,5 60,5
+background:image(background_images/music.jpg)
+paddle_speed:10
+paddle_width:200
+block_definitions:definitions/music_definitions.txt
+blocks_start_x:100
+blocks_start_y:30
+row_height:70
+num_blocks:30
+START_BLOCKS
+~
+~
+d!d!d!d!d!d!d!d
+g!d!d!d!d!d!d!g
+g!d!g!d!d!g!d!g
+d!d!d!d!d!d!d!d
+END_BLOCKS
+END_LEVEL
+
+#Level 3
+
+START_LEVEL
+level_name:Nana Banana
+ball_velocities:-45,5 45,6 100,5 60,5 20,4
+background:image(background_images/Banana.jpg)
+paddle_speed:15
+paddle_width:160
+block_definitions:definitions/banana_definitions.txt
+blocks_start_x:100
+blocks_start_y:30
+row_height:70
+num_blocks:30
+START_BLOCKS
+~
+k!!k!!k!!k!!k!!k!!k!!k
+~~~~~~!!d!d!d
+~~~~!d!d!d!d!d
+~~d!d!d!d!d!d!d
+ddddddddd
+END_BLOCKS
+END_LEVEL
+
+#Level 4
+
+START_LEVEL
+level_name:Love is in the air
+ball_velocities:-45,5 55,6 30,5 60,5 70,4 130,4
+background:image(background_images/minilove.jpg)
+paddle_speed:12
+paddle_width:150
+block_definitions:definitions/love_definitions.txt
+blocks_start_x:20
+blocks_start_y:100
+row_height:30
+num_blocks:97
+START_BLOCKS
+~
+~~bb~~~~~bb
+~baab~~~baab
+baaaab~baaaab
+baaaaabaaaaab
+baaaaaaaaaaab
+~baaaaaaaaab
+~~baaaaaaab
+~~~baaaaab
+~~~~baaab
+~~~~~bab
+~~~~~~b
+END_BLOCKS
+END_LEVEL

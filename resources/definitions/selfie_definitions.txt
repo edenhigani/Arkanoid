@@ -1,0 +1,5 @@
+# block definitions
+bdef symbol:d width:70 height:40 hit_points:1 fill-1:color(gray)
+bdef symbol:g width:70 height:40 hit_points:1 fill-1:color(lightGray)
+# spacers definitions
+sdef symbol:~ width:30

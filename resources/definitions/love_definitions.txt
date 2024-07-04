@@ -1,0 +1,5 @@
+# block definitions
+bdef symbol:a width:30 height:30 hit_points:1 fill-1:color(red)
+bdef symbol:b width:30 height:30 hit_points:1 fill-1:color(black)
+# spacers definitions
+sdef symbol:~ width:30

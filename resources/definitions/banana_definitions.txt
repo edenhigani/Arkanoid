@@ -1,0 +1,6 @@
+# block definitions
+bdef symbol:d width:70 height:52 hit_points:2 fill-2:image(block_images/bananaA.jpg) fill-1:image(block_images/bananaB.jpg)
+bdef symbol:k width:60 height:46 hit_points:1 fill-1:image(block_images/h.jpg) stroke:color(red)
+# spacers definitions
+sdef symbol:~ width:30
+sdef symbol:! width:10
